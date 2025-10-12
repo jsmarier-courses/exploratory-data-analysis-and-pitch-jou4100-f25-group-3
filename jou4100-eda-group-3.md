@@ -1,13 +1,13 @@
-**Date**<br>
-**Course Code & Course Name**<br>
-**Student's First Name & Last Name**<br>
+**Oct.12, 2025**<br>
+**JOU4100, Digital Journalism II**<br>
+**Liam Fox, Noah Leafloor, and Luke Lau**<br>
 **Presented to Jean-Sébastien Marier**<br>
 
 # Exploratory Data Analysis (EDA) & Pitch
 
-Use one hashtag symbol (`#`) to create a level 1 heading like this one.
 
-## Foreword
+
+## EDA of the City of Ottawa's 2021 Census and Ward Data 
 
 For this assignment, you must extract data from a dataset provided by the instructor. You must then clean and analyze the data, create exploratory charts/visualizations, and find a potential story idea. Your assignment must clearly detail your process. You are expected to write about 1500-2000 words, and to include several screen captures showing the different steps you went through. Your assignment must be written with the Markdown format and submitted on GitHub Classroom.
 
