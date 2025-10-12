@@ -24,7 +24,22 @@ And to create an unordered list, we simply put a star (`*`) before each item.
 
 ## 1. Introduction
 
-Insert text here.
+In our Exploratory Data Analysis (EDA) assignment, our group of Digital Journalism students at the University of Ottawa will analyze data from the City of [Ottawa’s 2021 Long Form Census - Ward Data](https://open.ottawa.ca/datasets/ottawa::2021-long-form-census-ward-data/about). 
+
+The data in the Census — which aims to collect data regarding demographic, social and economic characteristics representative of the entire population — was collected through questionnaires sent to all households in Ottawa by Statistics Canada as part of their National Census. The City originally published the dataset on November 28, 2023 and last updated on October 19, 2024. The City’s open Census data is updated in tandem with each National Census, which is collected every five years. Updated Ward and City data is expected to be updated in 2028, as the Census data will need to be processed after its collection in 2026. Eva Walrond, who works for the City’s Planning, Real Estate and Economic Development department, is the steward of the 2021 Long Form Census Data. The dataset includes information about Ottawa residents’ income, ethnicity, nationality, spoken languages, education and employment, among other variables. 
+
+The original dataset published on the City of Ottawa’s open data portal can be found and downloaded [here](https://open.ottawa.ca/datasets/ottawa::2021-long-form-census-ward-data/about). 
+
+The CSV file for the raw and unchanged dataset we will be using for our EDA can be found and downloaded [here](https://raw.githubusercontent.com/jsmarier/files-for-course-assignments/refs/heads/main/2021_Long_Form_Census_-_Ward_Data.csv) 
+
+First, for our EDA assignment, we will explain the process of exporting a dataset in Google Sheets and note some general and specific observations about the data in the **Getting Data** section. 
+
+Next, we will conduct a VIMO (valid, invalid, missing, outliers) analysis, clean our dataset and summarize key findings in the **Understanding Data** section. 
+
+After this, we will pitch a story idea we gathered from our data analysis of the City of Ottawa’s Census in the **Potential Story** section.
+
+ Last, we will cite the relevant course material we consulted for our EDA in the **References** section. 
+
 
 ## 2. Getting Data
 
