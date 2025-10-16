@@ -45,10 +45,13 @@ After this, we will pitch a story idea we gathered from our data analysis of the
 
 Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
-To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
+To import the [dataset](https://raw.githubusercontent.com/jsmarier/files-for-course-assignments/refs/heads/main/2021_Long_Form_Census_-_Ward_Data.csv) into [Google Sheets](https://docs.google.com/spreadsheets/d/1r-4qwR_3zLg95GB5UP3KQ-1nzTT0DsBS9QNl8Lruv88/edit?gid=0#gid=0), we used the import data function  —  _IMPORTDATA=“url”_  —  in the A1 cell.
 
-![](import-screen-capture.png)<br>
-*Figure 1: The "Import file" prompt on Google Sheets.*
+![Image of data imported into Google Sheets](<Screenshot 2025-10-16 115025.png>)<br>
+
+*Figure 1: Screen capture of the dataset in Google Sheets immediately after importation.* 
+
+The public link to the dataset in our Google Sheets spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/1r-4qwR_3zLg95GB5UP3KQ-1nzTT0DsBS9QNl8Lruv88/edit?gid=0#gid=0)
 
 **Here are examples of functions and lines of code put in grey boxes:**
 
