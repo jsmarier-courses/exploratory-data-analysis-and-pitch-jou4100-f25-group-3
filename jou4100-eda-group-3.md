@@ -47,7 +47,7 @@ Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
 To import the [dataset](https://raw.githubusercontent.com/jsmarier/files-for-course-assignments/refs/heads/main/2021_Long_Form_Census_-_Ward_Data.csv) into [Google Sheets](https://docs.google.com/spreadsheets/d/1r-4qwR_3zLg95GB5UP3KQ-1nzTT0DsBS9QNl8Lruv88/edit?gid=0#gid=0), we used the import data function  —  _IMPORTDATA=“url”_  —  in the A1 cell.
 
-![Image of data imported into Google Sheets](<Screenshot 2025-10-16 115025.png>)<br>
+![Image of data imported into Google Sheets](<Screencaptureoforiginaldataset.png>)<br>
 
 *Figure 1: Screen capture of the dataset in Google Sheets immediately after importation.* 
 
