@@ -43,9 +43,11 @@ After this, we will pitch a story idea we gathered from our data analysis of the
 
 ## 2. Getting Data
 
-Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
-To import the [dataset](https://raw.githubusercontent.com/jsmarier/files-for-course-assignments/refs/heads/main/2021_Long_Form_Census_-_Ward_Data.csv) into [Google Sheets](https://docs.google.com/spreadsheets/d/1r-4qwR_3zLg95GB5UP3KQ-1nzTT0DsBS9QNl8Lruv88/edit?gid=0#gid=0), we used the import data function  —  _IMPORTDATA=“url”_  —  in the A1 cell.
+To import the raw [dataset](https://raw.githubusercontent.com/jsmarier/files-for-course-assignments/refs/heads/main/2021_Long_Form_Census_-_Ward_Data.csv) into [Google Sheets](https://docs.google.com/spreadsheets/d/1r-4qwR_3zLg95GB5UP3KQ-1nzTT0DsBS9QNl8Lruv88/edit?gid=0#gid=0), we manually input the GitHub repository [CSV file](https://raw.githubusercontent.com/jsmarier/files-for-course-assignments/refs/heads/main/2021_Long_Form_Census_-_Ward_Data.csv) by inserting its URL with the import data function  —  _IMPORTDATA=“url”_  —  in the A1 cell.
+
+The full function in cell A1 of our dataset was formatted as such:
+`=IMPORTDATA("https://raw.githubusercontent.com/jsmarier/files-for-course-assignments/refs/heads/main/2021_Long_Form_Census_-_Ward_Data.csv")`
 
 ![Image of data imported into Google Sheets](<Screencaptureoforiginaldataset.png>)<br>
 
@@ -53,16 +55,41 @@ To import the [dataset](https://raw.githubusercontent.com/jsmarier/files-for-cou
 
 The public link to the dataset in our Google Sheets spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/1r-4qwR_3zLg95GB5UP3KQ-1nzTT0DsBS9QNl8Lruv88/edit?gid=0#gid=0)
 
-**Here are examples of functions and lines of code put in grey boxes:**
+The full City of Ottawa 2021 Long Form Census dataset in Google Sheets is 26 columns by 2,603 rows. 
 
-1. If you name a function, put it between "angled" quotation marks like this: `IMPORTHTML`.
-1. If you want to include the entire line of code, do the same thing, albeit with your entire code: `=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)`.
-1. Alternatively, you can put your code in an independent box using the template below:
+On its face, the data looks clear and accurate, although it is hard to digest due to the extensive quantity of demographic sample data included in the Census.
 
-``` r
-=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)
-```
-This also shows how to create an ordered list. Simply put `1.` before each item.
+
+The columns are separated by each ward in the City of Ottawa, as well as cumulative data for the entire city summed from every ward. 
+
+The order and labeling of all 24 wards are correct, according to the [City of Ottawa’s Mayor and City Councillors Directory](https://ottawa.ca/en/city-hall/mayor-and-city-councillors). 
+
+
+The rows are organized by labels in the first column, each describing a different variable, and the corresponding values for each ward and the city as a whole are listed in the rest of the columns. 
+
+For example, the 12th row in the dataset lists the number of people who are 30 to 34 years old in Ottawa’s total population for each ward and the entire city. 
+
+While the data appears to be clean, for the most part, the full Census dataset is too overwhelming to conduct a thorough analysis. Therefore, we decided to focus our data analysis on the section of the dataset about commuting methods, distance, and times for the employed labour force aged 15 years or older with a usual place of work in Ottawa detailed in the 2021 Census. 
+
+ Our group created [another sheet](https://docs.google.com/spreadsheets/d/1r-4qwR_3zLg95GB5UP3KQ-1nzTT0DsBS9QNl8Lruv88/edit?gid=1160608891#gid=1160608891), copying the data from rows 2575 to 2595 from the raw, original dataset into a more digestible dataset on commuting behaviour. 
+
+ All of the variables we analyzed in our dataset about commuting habits in the City of Ottawa are continuous variables.
+
+ 
+According to Statistics Canada’s [Power from Data handbook](https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch8/5214817-eng.htm), a variable is continuous if “it can assume an infinite number of real values within a given interval.” The variables in our dataset measure the number of people in a population, which can assume an infinite number of real values and a meaningful zero. 
+
+For instance, row four in our commuting behaviour dataset features continuous variables about people aged 15 or over in the labour force who commute by driving a car, van, or truck to their place of work in each ward of the City of Ottawa. 
+
+Column P in our condensed dataset features continuous variables about the commuting habits of Somerset Ward residents in the labour force aged 15 or over.
+
+ Row 18 features continuous variable observations about the number of people across the city who leave for work between 6:00 to 6:59 a.m. 
+
+ 
+Our group observed that while over 210,000 people aged 15 or over in Ottawa’s labour force use a motor vehicle to commute to work, only about 64,000 people — which is under 25% of the sample — reported using other methods such as public transit, walking, or biking to get to work. 
+
+Based on this observation, our group formulated the hypothesis that the City of Ottawa and other levels of government — amid efforts to reduce carbon emmission and combat climate change — are prioritizing and investing in initiatives that incentivize alternative methods of transportation, such as public transit and active transportation infrastructure.
+
+Our observation that the large majority of the labour force who commute to work in Ottawa drive a personal motor vehicle also led us to wonder, “Is Ottawa more car-centric than other major Canadian cities and if so, why?” 
 
 ## 3. Understanding Data
 
