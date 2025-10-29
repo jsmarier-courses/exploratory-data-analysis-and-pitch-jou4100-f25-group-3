@@ -97,8 +97,17 @@ Our observation that the large majority of the labour force who commute to work 
 
 Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
 
-Insert text here.
+### 3.1. VIMO Analysis
 
+![Screenshot](<Screenshot 2025-10-29 163314.png>)<br>
+
+Methods for exploring the validity and correctness of the data was done through a vimo analysis. Following Statistics Canada’s guide for “Data Accuracy and Validation: Methods to ensure the quality of data,” a vimo analysis was conducted where the accuracy and validity was assessed. 
+
+Focusing on the dataset, finding any invalid, missing, or outlier values was done to determine the quality and validity. No errors or outliers were detected. However, the data is continuous as it changes frequently. Additionally, twenty five per cent sample data was collected for the methods, duration, and time for the 24 wards.
+
+For exploring the correctness of the data, the 2016 total census for wards one to 23 was the best option for comparing the 2021 data. The 2016 census was then explored and found comparable data like methods of transportation, duration, and time. However, since it is 2016, the number of wards has changed to 24. They also broke up the three identified columns (method, duration, time) between gender. While analyzing the correctness of the data, they also used a 25 per cent sample in 2016. The population was proportionate as it went up slightly in 2021. Furthermore, since the data is from the City of Ottawa, the accuracy is trusted more.
+
+The 2021 dataset was explored for its validity and correctness of data after choosing to focus on the commuting census. There was little to improve since the vimo analysis was not large. The level of accuracy is trusted since the data comes from the City of Ottawa’s official census and Statistics Canada. Additionally, it is difficult to measure and find other sources of the focused data, because it is about duration and time along methods for transportation.
 Support your claims by citing relevant sources. Please follow [APA guidelines for in-text citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
 
 **For example:**
