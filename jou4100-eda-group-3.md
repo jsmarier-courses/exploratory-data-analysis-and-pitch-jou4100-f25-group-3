@@ -116,7 +116,17 @@ As Cairo (2016) argues, a data visualization should be truthful...
 
 ### 3.2. Cleaning Data
 
-Insert text here.
+After VIMO analysis, which determined that the condensed dataset had no significant invalid, missing, or outlier values, the data cleaning process focused primarily on ensuring the data’s accuracy, consistency, and usability for analysis. The following key steps within Google Sheets is performed:
+
+#### Improving Readability 
+Freezing Panes: To enhance the dataset’s usability, the top header row (including the ward names) and the first column (‘Characteristics’) is frozen. This action ensures that the labels remain visible while scrolling and making it much easier to cross-reference data points accurately.
+
+#### Standardizing Column Headers 
+Using <code>SPLIT</code>: The original column headers combined the ward’s name and its number. To standardize these headers for cleaner analysis, the <code>SPLIT</code> function is applied. This separated the descriptive name from the ward number into two distinct rows.
+
+##### Ensuring Data Integrity
+Data Cleanup Tools: To guarantee data integrity, the ‘Data cleanup’ tools available in Google Sheets are run. The ‘Trim whitespace’ function is run on the ‘Characteristics’ column. This is a necessary step, as the inspection of the raw data revealed that some data labels contained invisible leading spaces. Removing these spaces is important for preventing errors when using filters or creating pivot tables, ultimately making the tables and charts far more reliable and readable.
+
 
 ### 3.3. Exploratory Data Analysis (EDA)
 
