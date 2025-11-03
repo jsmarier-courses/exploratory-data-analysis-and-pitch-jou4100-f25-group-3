@@ -159,6 +159,16 @@ pie
 
 ![Exploratory Chart](<Exploratory-Chart.png>)
 
+We chose to analyze the commuting methods for the City of Ottawa variables we wanted to assess how people commute across the city, mainly the difference between how Ottawa’s labour force uses personal vehicles to commute versus alternative methods such as public transit, walking and biking. 
+
+It stood out to us that 76.8 per cent of Ottawa’s employed labour force over the age of 15 drove to work, as opposed to less than 25 per cent using alternative methods of transportation to commute. We have presented these data in pivot table and pie chart, using Table and Pie Chart functions of Markdown format.
+
+Therefore, we were curious as to why the large majority of commuters used personal vehicles to get to work and how they could be incentivized to use a more eco-friendly alternative method, leading us to consider pursuing a story about what initiatives and investment the City of Ottawa is undertaking to improve public and active transportation infrastructure across the city. 
+
+We think the variables about commuting time warrant further investigation because they influence the commuting method people in the city use. 
+
+For example, if it takes a person living in Kanata 30 minutes to drive into to work in the downtown core, public transit may not be an appealing alternative because it takes too much time and therefore there is no way to incentivize them to reconsider their commuting method. 
+
 **This section should include a screen capture of your pivot table, like so:**
 
 ![](pivot-table-screen-capture.png)<br>
