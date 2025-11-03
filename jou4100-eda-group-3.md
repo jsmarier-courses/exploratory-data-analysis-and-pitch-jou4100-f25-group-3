@@ -130,7 +130,30 @@ Data Cleanup Tools: To guarantee data integrity, the ‘Data cleanup’ tools av
 
 ### 3.3. Exploratory Data Analysis (EDA)
 
-Insert text here.
+#### Pivot Table
+
+|Characteristics                           |SUM of City of Ottawa|
+|------------------------------------------|---------------------|
+|Bicycle                                   |                 4265|
+|Car, truck or van - **as a driver**       |               190185|
+|Car, truck or van - **as a passenger**    |                21570|
+|Public transit                            |                31015|
+|Walked                                    |                19400|
+|Other method                              |                 9265|
+|**Grand Total**                           |           **275700**|
+
+#### Exploratory Chart
+
+```mermaid
+pie
+    title Pie Chart
+    "Bicycle" : 4265
+    "Car, truck or van - driver" : 190185
+    "Car, truck or van - passenger" : 21570
+    "Public transit" : 31015
+    "Walked" : 19400
+    "Other method" : 9265
+```
 
 **This section should include a screen capture of your pivot table, like so:**
 
