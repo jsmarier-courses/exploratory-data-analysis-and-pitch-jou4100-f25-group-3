@@ -142,6 +142,8 @@ Data Cleanup Tools: To guarantee data integrity, the ‘Data cleanup’ tools av
 |Other method                              |                 9265|
 |**Grand Total**                           |           **275700**|
 
+![Pivot Table](<Pivot-Table.png>)
+
 #### Exploratory Chart
 
 ```mermaid
@@ -154,6 +156,8 @@ pie
     "Walked" : 19400
     "Other method" : 9265
 ```
+
+![Exploratory Chart](<Exploratory-Chart.png>)
 
 **This section should include a screen capture of your pivot table, like so:**
 
