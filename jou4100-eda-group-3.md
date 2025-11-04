@@ -100,6 +100,7 @@ Use three hashtag symbols (`###`) to create a level 3 heading like this one. Ple
 ### 3.1. VIMO Analysis
 
 ![Screenshot](<Screenshot 2025-10-29 163314.png>)<br>
+*Figure 2: Screen capture of a table showcasing the results of our VIMO analysis, accounting for invalid, missing and outlier values.*
 
 Methods for exploring the validity and correctness of the data was done through a vimo analysis. Following Statistics Canada’s guide for “Data Accuracy and Validation: Methods to ensure the quality of data,” a vimo analysis was conducted where the accuracy and validity was assessed. 
 
@@ -124,7 +125,7 @@ Freezing Panes: To enhance the dataset’s usability, the top header row (includ
 #### Standardizing Column Headers 
 Using <code>SPLIT</code>: The original column headers combined the ward’s name and its number. To standardize these headers for cleaner analysis, the <code>SPLIT</code> function is applied. This separated the descriptive name from the ward number into two distinct rows.
 
-##### Ensuring Data Integrity
+#### Ensuring Data Integrity
 Data Cleanup Tools: To guarantee data integrity, the ‘Data cleanup’ tools available in Google Sheets are run. The ‘Trim whitespace’ function is run on the ‘Characteristics’ column. This is a necessary step, as the inspection of the raw data revealed that some data labels contained invisible leading spaces. Removing these spaces is important for preventing errors when using filters or creating pivot tables, ultimately making the tables and charts far more reliable and readable.
 
 
@@ -143,7 +144,7 @@ Data Cleanup Tools: To guarantee data integrity, the ‘Data cleanup’ tools av
 |**Grand Total**                           |           **275700**|
 
 ![Pivot Table](<Pivot-Table.png>)
-
+*Figure 3: Screen capture of a pivot table representing commuting methods for the employed labour force aged 15 or over in the City of Ottawa, according to 2021 Census data.*
 #### Exploratory Chart
 
 ```mermaid
@@ -158,26 +159,17 @@ pie
 ```
 
 ![Exploratory Chart](<Exploratory-Chart.png>)
+*Figure 4: PNG file of a pie chart created in Google Sheets visualizing the proportional distribution between commuting methods for the employed labour force aged over 15 in Ottawa.* 
 
-We chose to analyze the commuting methods for the City of Ottawa variables we wanted to assess how people commute across the city, mainly the difference between how Ottawa’s labour force uses personal vehicles to commute versus alternative methods such as public transit, walking and biking. 
+We chose to analyze the commuting methods for the City of Ottawa variables we wanted to assess how people commute across the city. More specifically we wanted to analyse the disparity between using personal vehicles to commute versus alternative methods such as public transit, walking and biking for the employed labour force in Ottawa. 
 
-It stood out to us that 76.8 per cent of Ottawa’s employed labour force over the age of 15 drove to work, as opposed to less than 25 per cent using alternative methods of transportation to commute. We have presented these data in pivot table and pie chart, using Table and Pie Chart functions of Markdown format.
+It stood out to us that 76.8 per cent of Ottawa’s employed labour force over the age of 15 drove to work, as opposed to less than 25 per cent using alternative methods of transportation to commute. We have presented this data in a Google Sheets pivot table and pie chart, as well as in the Table and Pie Chart functions in Markdown.
 
 Therefore, we were curious as to why the large majority of commuters used personal vehicles to get to work and how they could be incentivized to use a more eco-friendly alternative method, leading us to consider pursuing a story about what initiatives and investment the City of Ottawa is undertaking to improve public and active transportation infrastructure across the city. 
 
 We think the variables about commuting time warrant further investigation because they influence the commuting method people in the city use. 
 
-For example, if it takes a person living in Kanata 30 minutes to drive into to work in the downtown core, public transit may not be an appealing alternative because it takes too much time and therefore there is no way to incentivize them to reconsider their commuting method. 
-
-**This section should include a screen capture of your pivot table, like so:**
-
-![](pivot-table-screen-capture.png)<br>
-*Figure 2: This pivot table shows...*
-
-**This section should also include a screen capture of your exploratory chart, like so:**
-
-![](chart-screen-capture.png)<br>
-*Figure 3: This exploratory chart shows...*
+For example, if it takes a person 30 minutes to drive into to work, public transit may not be an appealing alternative because it takes too much time.  
 
 ## 4. Potential Story
 
