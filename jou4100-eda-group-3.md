@@ -173,7 +173,13 @@ For example, if it takes a person 30 minutes to drive into to work, public trans
 
 ## 4. Potential Story
 
-Insert text here.
+Public transit is a growing part of Ottawa as a good portion of laborers depend on it. However, driving being 76.8 per cent of the labour force, which is from 25 per cent sample data, is the leading method of transportation. Why is that? This is the question we seek to answer.
+
+What we know is in the coming years, the city of Ottawa will have and continue to be improving road quality and public transit infrastructure. Specifically, investing in the O-Train extension lines and the zero-emission bus program. Therefore, a story about how the City of Ottawa is planning to invest and upgrade its public transit infrastructure to meet demand for more reliable and expanded service, using commuting methods and duration data as a reference point for how dependent the city’s labour force is on personal vehicles. 
+
+To tell this story, interviewing sources like City Councillor and Transit Committee Chair Glen Gower, would give the story an expert insight into why such a high percentage of commuters use personal vehicles in Ottawa and what the city is doing to improve public transit infrastructure to make a more compelling alternative to commuters. Perhaps having a perspective on commuting time improvements for those who live outside of the city, could swing people in favor of using public transit. Additionally, interviewing a representative from Ottawa Transit Riders, “a non-partisan, membership-based, advocacy group, working to make Ottawa’s transit system more reliable, affordable, accessible, and safe,” would be another good idea because they have a board of directors who can answer on what improvements the city is doing to have more workers use public transit (Ottawa Transit Riders, 2025).
+
+I found relevant sources such as a CBC article on Ottawa’s $1B transit project, highlighting the zero-emission buses. I also found the Ottawa Transit Rider’s Board of Directors page, which can be a useful list of potential interviews. Additionally, Glen Gower released a piece from his notebook series where he writes about his week without driving. He also wrote about OC Transpo’s recent reliability (Sep), which makes him a great interview candidate. 
 
 ## 5. Conclusion
 
