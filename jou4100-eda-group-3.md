@@ -94,7 +94,7 @@ Our observation that the large majority of the labour force who commute to work 
 
 ![Screenshot](<Screenshot 2025-10-29 163314.png>)<br>
 *Figure 2: Screen capture of a table showcasing the results of our VIMO analysis, accounting for invalid, missing and outlier values.*
-
+ 
 Methods for exploring the validity and correctness of the data was done through a vimo analysis. Following Statistics Canada’s guide for “Data Accuracy and Validation: Methods to ensure the quality of data,” a vimo analysis was conducted where the accuracy and validity was assessed (Statistics Canada).
 
 Focusing on the dataset, finding any invalid, missing, or outlier values was done to determine the quality and validity. No errors or outliers were detected. 
@@ -125,6 +125,9 @@ Data Cleanup Tools: To guarantee data integrity, the ‘Data cleanup’ tools av
 
 ![Cleaning Data Screenshot](<Cleaning-Data_Screenshot.png>)
 
+
+*Figure 3: Screen capture of dataset after the cleaning process.*
+
 ### 3.3. Exploratory Data Analysis (EDA)
 
 #### Pivot Table
@@ -140,7 +143,7 @@ Data Cleanup Tools: To guarantee data integrity, the ‘Data cleanup’ tools av
 |**Grand Total**                           |           **275700**|
 
 ![Pivot Table](<Pivot-Table.png>)
-*Figure 3: Screen capture of a pivot table representing commuting methods for the employed labour force aged 15 or over in the City of Ottawa, according to 2021 Census data.*
+*Figure 4: Screen capture of a pivot table representing commuting methods for the employed labour force aged 15 or over in the City of Ottawa, according to 2021 Census data.*
 #### Exploratory Chart
 
 ```mermaid
@@ -155,11 +158,16 @@ pie
 ```
 
 ![Exploratory Chart](<Exploratory-Chart.png>)
-*Figure 4: PNG file of a pie chart created in Google Sheets visualizing the proportional distribution between commuting methods for the employed labour force aged over 15 in Ottawa.* 
+*Figure 5: PNG file of a pie chart created in Google Sheets visualizing the proportional distribution between commuting methods for the employed labour force aged over 15 in Ottawa.* 
 
 We chose to analyze the commuting methods for the City of Ottawa variables we wanted to assess how people commute across the city. More specifically we wanted to analyse the disparity between using personal vehicles to commute versus alternative methods such as public transit, walking and biking for the employed labour force in Ottawa. 
 
 It stood out to us that 76.8 per cent of Ottawa’s employed labour force over the age of 15 drove to work, as opposed to less than 25 per cent using alternative methods of transportation to commute. We have presented this data in a Google Sheets pivot table and pie chart, as well as in the Table and Pie Chart functions in Markdown.
+
+Statistics Canada writes that pie charts are "best used for displaying statistical information when there are no more than six components only — otherwise, the resulting picture will be too complex to understand" in its *Power from Data* hanbook (Statistics Canada, 2021). 
+
+Our chart displayed six categories, therefore the pie chart was effective visual format to simplistically convey our data's focus on how commuting methods are divided in Ottawa. 
+
 
 Therefore, we were curious as to why the large majority of commuters used personal vehicles to get to work and how they could be incentivized to use a more eco-friendly alternative method, leading us to consider pursuing a story about what initiatives and investment the City of Ottawa is undertaking to improve public and active transportation infrastructure across the city. 
 
@@ -175,20 +183,21 @@ What we know is in the coming years, the city of Ottawa will have and continue t
 
 To tell this story, interviewing sources like City Councillor and Transit Committee Chair Glen Gower, would give the story an expert insight into why such a high percentage of commuters use personal vehicles in Ottawa and what the city is doing to improve public transit infrastructure to make a more compelling alternative to commuters. Perhaps having a perspective on commuting time improvements for those who live outside of the city, could swing people in favor of using public transit. Additionally, interviewing a representative from Ottawa Transit Riders, “a non-partisan, membership-based, advocacy group, working to make Ottawa’s transit system more reliable, affordable, accessible, and safe,” would be another good idea because they have a board of directors who can answer on what improvements the city is doing to have more workers use public transit (Ottawa Transit Riders, 2025).
 
-I found relevant sources such as a CBC article on Ottawa’s $1B transit project, highlighting the zero-emission buses. I also found the Ottawa Transit Rider’s Board of Directors page, which can be a useful list of potential interviews. Additionally, Glen Gower released a piece from his notebook series where he writes about his week without driving. He also wrote about OC Transpo’s recent reliability (Sep), which makes him a great interview candidate. 
+I found relevant sources such as a CBC article on Ottawa’s $1B transit project, highlighting the zero-emission buses (Skura, 2025). I also found the Ottawa Transit Rider’s Board of Directors page, which can be a useful list of potential interviews.
+
+  Additionally, Glen Gower released a piece from his notebook series where he writes about his week without driving (Gower, 2025) He also wrote about OC Transpo’s recent reliability in October, which makes him a great candidate to interview. 
+  
 
 ## 5. Conclusion
 
-In summary, our team encountered several significant challenges. Liam found that it was difficult to determine what to focus on in this large dataset, making it hard to establish a clear focus from the start. Noah found that it was challenging to perform the functions and narrow the story down. For Luke, the main hurdle was technical issues; Markdown was a new try and it was not easy to convert different formats or styles into Markdown, or apply Markdown functions for things like tables, sheets, hyperlinks, etc.
+In summary, our team encountered several significant challenges. Liam found that it was difficult to determine what to focus on in this large dataset, making it hard to establish a clear story idea from the original dataset. Noah found that it was challenging to perform Markdown functions and narrow down a precise story idea. For Luke, the main hurdle was technical issues; Markdown was unfamiliar and it was not easy to convert different formats or styles into Markdown, or apply Markdown functions for things like tables, sheets, hyperlinks, etc.
 
-Although facing these challenges, the process proved extremely rewarding. For Noah, it was the process of using Google Sheets to create data visualizations and seeing the outline of the story that we were creating. Liam enjoyed the process of turning raw, intangible data into a comprehensive story idea through in-depth analysis, utilizing various tools such as Google Sheets pivot tables, data visualizations and complementary sources. He also enjoyed learning the technicalities of GitHub and Markdown. For Luke, the greatest reward came from solving technical issues; understanding how to apply Markdown functions was a big achievement.
+Although by overcoming these challenges, the process proved extremely rewarding. The most rewardinf aspect for Noah was the process of using Google Sheets to create data visualizations and identifying the outline of the story that we were creating. Liam enjoyed the process of turning raw, intangible data into a comprehensive story idea through in-depth analysis, utilizing various tools such as Google Sheets pivot tables, data visualizations and other complementary sources. He also enjoyed learning the technicalities of natigating GitHub and Markdown. For Luke, the greatest reward came from solving technical issues; understanding how to apply Markdown functions was a big achievement.
 
-This project also prompted some final thoughts. Even though we thought that coding was far removed from journalism, as two completely different fields of knowledge, through this, we found that coding is also important and that we are complete beginners in this field. Looking back, we could have improved our workflow by setting more specific research questions to enhance efficiency from the beginning of the analysis.
+This project also prompted some final thoughts. Even though we thought that coding was far removed from journalism, as two completely different fields of knowledge, throughout our EDA, we found that basic coding can be an incredibly valuable skill for generating data-driven stories and in enterprise journalism as a whole. Looking back, we could have improved our workflow by setting more specific research questions to enhance efficiency from the beginning of the analysis. If we were to do the project again, we probably would have examined a more specified dataset to generate a more specific story idea, or used other methods such as ATI laws to find data that isn't already publicly availble to uncover new information.
 
 ## 6. References
 
-Basic writing and formatting syntax - GitHub Docs. (n.d.). GitHub Docs. 
-[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 Board of directors / conseil d’administration. (2021). Ottawa Transit Riders / Le Groupe Des Usagers de Transport En Commun D’Ottawa. [https://www.ottawatransitriders.ca/board_of_directors_conseil_d_administration](https://www.ottawatransitriders.ca/board_of_directors_conseil_d_administration)
 
