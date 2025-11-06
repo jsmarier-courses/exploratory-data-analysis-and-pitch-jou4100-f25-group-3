@@ -183,7 +183,11 @@ I found relevant sources such as a CBC article on Ottawa’s $1B transit project
 
 ## 5. Conclusion
 
-Insert text here.
+In summary, our team encountered several significant challenges. Liam found that it was difficult to determine what to focus on in this large dataset, making it hard to establish a clear focus from the start. Noah found that it was challenging to perform the functions and narrow the story down. For Luke, the main hurdle was technical issues; Markdown was a new try and it was not easy to convert different formats or styles into Markdown, or apply Markdown functions for things like tables, sheets, hyperlinks, etc.
+
+Although facing these challenges, the process proved extremely rewarding. For Noah, it was the process of using Google Sheets to create data visualizations and seeing the outline of the story that we were creating. Liam enjoyed the process of turning raw, intangible data into a comprehensive story idea through in-depth analysis, utilizing various tools such as Google Sheets pivot tables, data visualizations and complementary sources. He also enjoyed learning the technicalities of GitHub and Markdown. For Luke, the greatest reward came from solving technical issues; understanding how to apply Markdown functions was a big achievement.
+
+This project also prompted some final thoughts. Even though we thought that coding was far removed from journalism, as two completely different fields of knowledge, through this, we found that coding is also important and that we are complete beginners in this field. Looking back, we could have improved our workflow by setting more specific research questions to enhance efficiency from the beginning of the analysis.
 
 ## 6. References
 
