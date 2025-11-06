@@ -203,7 +203,7 @@ In-Text Citations. (2019). American Psychological Association.
 [https://apastyle.apa.org/style-grammar-guidelines/citations](https://apastyle.apa.org/style-grammar-guidelines/citations)
 
 
-Marier, Jean-Sébastien. (2021, October). Cleaning Data in Google Sheets [Video]. YouTube. [https://www.youtube.com/watch?v=U4yigiawIEU&t=111s](https://www.youtube.com/watch?v=U4yigiawIEU&t=111s
+Marier, Jean-Sébastien. (2021, October). Cleaning Data in Google Sheets [Video]. YouTube. [https://www.youtube.com/watch?v=U4yigiawIEU&t=111s](https://www.youtube.com/watch?v=U4yigiawIEU&t=111s)
 
 
 Skura, E. (2025, February 18). Inside Ottawa’s next $1B transit project. CBC. [https://www.cbc.ca/news/canada/ottawa/inside-ottawa-s-next-1b-transit-project-1.7453280](https://www.cbc.ca/news/canada/ottawa/inside-ottawa-s-next-1b-transit-project-1.7453280)
