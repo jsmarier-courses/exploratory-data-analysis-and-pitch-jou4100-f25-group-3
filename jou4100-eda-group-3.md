@@ -187,8 +187,29 @@ This project also prompted some final thoughts. Even though we thought that codi
 
 ## 6. References
 
-Include a list of your references here. Please follow [APA guidelines for references](https://apastyle.apa.org/style-grammar-guidelines/references). Hanging paragraphs aren't required though.
+Basic writing and formatting syntax - GitHub Docs. (n.d.). GitHub Docs. 
+[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-**Here's an example:**
+Board of directors / conseil d’administration. (2021). Ottawa Transit Riders / Le Groupe Des Usagers de Transport En Commun D’Ottawa. [https://www.ottawatransitriders.ca/board_of_directors_conseil_d_administration](https://www.ottawatransitriders.ca/board_of_directors_conseil_d_administration)
 
-Bounegru, L., & Gray, J. (Eds.). (2021). *The Data Journalism Handbook 2: Towards A Critical Data Practice*. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
+
+Data Accuracy and Validation: Methods to ensure the quality of data. (2020, September 23). Www.statcan.gc.ca. [https://www.statcan.gc.ca/en/wtc/data-literacy/catalogue/892000062020008](https://www.statcan.gc.ca/en/wtc/data-literacy/catalogue/892000062020008)
+
+
+Gower, G. (2025, October 8). NOTEBOOK: (Almost) a week without driving - Glen Gower | Councillor / Conseiller | Stittsville. Glen Gower | Councillor / Conseiller | Stittsville. [https://glengower.ca/community/notebook-almost-a-week-without-driving/](https://glengower.ca/community/notebook-almost-a-week-without-driving/)
+
+
+In-Text Citations. (2019). American Psychological Association. 
+[https://apastyle.apa.org/style-grammar-guidelines/citations](https://apastyle.apa.org/style-grammar-guidelines/citations)
+
+
+Marier, Jean-Sébastien. (2021, October). Cleaning Data in Google Sheets [Video]. YouTube. [https://www.youtube.com/watch?v=U4yigiawIEU&t=111s](https://www.youtube.com/watch?v=U4yigiawIEU&t=111s
+
+
+Skura, E. (2025, February 18). Inside Ottawa’s next $1B transit project. CBC. [https://www.cbc.ca/news/canada/ottawa/inside-ottawa-s-next-1b-transit-project-1.7453280](https://www.cbc.ca/news/canada/ottawa/inside-ottawa-s-next-1b-transit-project-1.7453280)
+
+
+Statistics Canada. (2021, November 17). Guide to the census of population, 2021, chapter 1 – introduction. [https://www12.statcan.gc.ca/census-recensement/2021/ref/98-304/2021001/chap1-eng.cfm]([https://www12.statcan.gc.ca/census-recensement/2021/ref/98-304/2021001/chap1-eng.cfm) 
+
+
+Statistics Canada. (2021, September 2). Statistics: Power from Data! [https://www150.statcan.gc.ca/n1/edu/power-pouvoir/toc-tdm/5214718-eng.htm](https://www150.statcan.gc.ca/n1/edu/power-pouvoir/toc-tdm/5214718-eng.htm) 
