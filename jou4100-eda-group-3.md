@@ -123,6 +123,7 @@ Using <code>SPLIT</code>: The original column headers combined the ward’s name
 #### Ensuring Data Integrity
 Data Cleanup Tools: To guarantee data integrity, the ‘Data cleanup’ tools available in Google Sheets are run. The ‘Trim whitespace’ function is run on the ‘Characteristics’ column. This is a necessary step, as the inspection of the raw data revealed that some data labels contained invisible leading spaces. Removing these spaces is important for preventing errors when using filters or creating pivot tables, ultimately making the tables and charts far more reliable and readable.
 
+![Cleaning Data Screenshot](<Cleaning-Data_Screenshot.png>)
 
 ### 3.3. Exploratory Data Analysis (EDA)
 
