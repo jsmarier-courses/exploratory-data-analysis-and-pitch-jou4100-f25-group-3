@@ -83,7 +83,7 @@ Column P in our condensed dataset features continuous variables about the commut
  
 Our group observed that while over 210,000 people aged 15 or over in Ottawa’s labour force use a motor vehicle to commute to work, only about 64,000 people — which is under 25% of the sample — reported using other methods such as public transit, walking, or biking to get to work. 
 
-Based on this observation, our group formulated the hypothesis that the City of Ottawa and other levels of government — amid efforts to reduce carbon emmission and combat climate change — are promoting and investing in initiatives that incentivize alternative methods of transportation, such as public transit and active transportation infrastructure.
+Based on this observation, our group formulated the hypothesis that the City of Ottawa and other levels of government — amid efforts to reduce carbon emissions and combat climate change — are promoting and investing in initiatives that incentivize alternative methods of transportation, such as public transit and active transportation infrastructure.
 
 Our observation that the large majority of the labour force who commute to work in Ottawa drive a personal motor vehicle also led us to wonder, “Is Ottawa more car-centric than other major Canadian cities and if so, why?” 
 
@@ -164,16 +164,16 @@ We chose to analyze the commuting methods for the City of Ottawa variables we wa
 
 It stood out to us that 76.8 per cent of Ottawa’s employed labour force over the age of 15 drove to work, as opposed to less than 25 per cent using alternative methods of transportation to commute. We have presented this data in a Google Sheets pivot table and pie chart, as well as in the Table and Pie Chart functions in Markdown.
 
-Statistics Canada writes that pie charts are "best used for displaying statistical information when there are no more than six components only — otherwise, the resulting picture will be too complex to understand" in its *Power from Data* hanbook (Statistics Canada, 2021). 
+Statistics Canada writes that pie charts are "best used for displaying statistical information when there are no more than six components only — otherwise, the resulting picture will be too complex to understand" in its *Power from Data* handbook (Statistics Canada, 2021). 
 
-Our chart displayed six categories, therefore the pie chart was effective visual format to simplistically convey our data's focus on how commuting methods are divided in Ottawa. 
+Our chart displayed six categories, therefore the pie chart was an effective visual format to simplistically convey our data's focus on how commuting methods are divided in Ottawa. 
 
 
 Therefore, we were curious as to why the large majority of commuters used personal vehicles to get to work and how they could be incentivized to use a more eco-friendly alternative method, leading us to consider pursuing a story about what initiatives and investment the City of Ottawa is undertaking to improve public and active transportation infrastructure across the city. 
 
 We think the variables about commuting time warrant further investigation because they influence the commuting method people in the city use. 
 
-For example, if it takes a person 30 minutes to drive into to work, public transit may not be an appealing alternative because it takes too much time.  
+For example, if it takes a person 30 minutes to drive to work, public transit may not be an appealing alternative because it takes an unrealistic amount of time.  
 
 ## 4. Potential Story
 
@@ -192,9 +192,9 @@ I found relevant sources such as a CBC article on Ottawa’s $1B transit project
 
 In summary, our team encountered several significant challenges. Liam found that it was difficult to determine what to focus on in this large dataset, making it hard to establish a clear story idea from the original dataset. Noah found that it was challenging to perform Markdown functions and narrow down a precise story idea. For Luke, the main hurdle was technical issues; Markdown was unfamiliar and it was not easy to convert different formats or styles into Markdown, or apply Markdown functions for things like tables, sheets, hyperlinks, etc.
 
-Although by overcoming these challenges, the process proved extremely rewarding. The most rewardinf aspect for Noah was the process of using Google Sheets to create data visualizations and identifying the outline of the story that we were creating. Liam enjoyed the process of turning raw, intangible data into a comprehensive story idea through in-depth analysis, utilizing various tools such as Google Sheets pivot tables, data visualizations and other complementary sources. He also enjoyed learning the technicalities of natigating GitHub and Markdown. For Luke, the greatest reward came from solving technical issues; understanding how to apply Markdown functions was a big achievement.
+Although by overcoming these challenges, the process proved extremely rewarding. The most rewarding aspect for Noah was the process of using Google Sheets to create data visualizations and identifying the outline of the story that we were creating. Liam enjoyed the process of turning raw, intangible data into a comprehensive story idea through in-depth analysis, utilizing various tools such as Google Sheets pivot tables, data visualizations and other complementary sources. He also enjoyed learning the technicalities of navigating GitHub and Markdown. For Luke, the greatest reward came from solving technical issues; understanding how to apply Markdown functions was a big achievement.
 
-This project also prompted some final thoughts. Even though we thought that coding was far removed from journalism, as two completely different fields of knowledge, throughout our EDA, we found that basic coding can be an incredibly valuable skill for generating data-driven stories and in enterprise journalism as a whole. Looking back, we could have improved our workflow by setting more specific research questions to enhance efficiency from the beginning of the analysis. If we were to do the project again, we probably would have examined a more specified dataset to generate a more specific story idea, or used other methods such as ATI laws to find data that isn't already publicly availble to uncover new information.
+This project also prompted some final thoughts. Even though we thought that coding was far removed from journalism, as two completely different fields of knowledge, throughout our EDA, we found that basic coding can be an incredibly valuable skill for generating data-driven stories and in enterprise journalism as a whole. Looking back, we could have improved our workflow by setting more specific research questions to enhance efficiency from the beginning of the analysis. If we were to do the project again, we probably would have examined a more specified dataset to generate a more specific story idea, or used other methods such as ATI laws to find data that isn't already publicly available and uncover new information.
 
 ## 6. References
 
